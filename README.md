@@ -216,13 +216,5 @@ You may adapt or extend it for learning and demonstration use.
 
 ---
 
-## 👩‍💻 Author
+   **❤️ Made with love: Zaynab**
 
-**Zaynab**  
-GitHub: `zayynabz`
-
----
-
-## ❤️ Made with love
-
-**Zaynab**
