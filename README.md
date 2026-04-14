@@ -46,6 +46,29 @@ Runs locally with **XAMPP**.
 - ♻️ Reusable PHP structure for easier maintenance
 
 ---
+## 📸 Application Preview
+
+### 🔐 Login Page
+![Login Page](assets/screenshots/index.png)
+![Login Page](assets/screenshots/login.png)
+
+### 🧭  Admin
+![ Admin](assets/screenshots/dashboard_admin.png)
+![ Admin](assets/screenshots/residents_vue_admin.png)
+![ Admin](assets/screenshots/residences_vue_admin.png)
+![ Admin](assets/screenshots/chambres_vue_admin.png)
+![ Admin](assets/screenshots/affecter_chambre.png)
+![ Admin](assets/screenshots/incidents_vue_admin.png)
+
+### 🧑‍🎓 Resident 
+![Resident ](assets/screenshots/dashboard_resident.png)
+![Resident ](assets/screenshots/chambre_vue_resident.png)
+
+
+### 🛏️ Maintenance 
+![Maintenance ](assets/screenshots/dashboard_technicien.png)
+![Maintenance ](assets/screenshots/incident_vue_technicien.png)
+
 
 ## 🧭 How It Works
 
